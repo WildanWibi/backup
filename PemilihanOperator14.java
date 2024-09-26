@@ -1,7 +1,7 @@
 package Praktikum05;
 import java.util.Scanner;
 
-public class No7Pertanyaan2  {
+public class PemilihanOperator14  {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan nilai a: ");
